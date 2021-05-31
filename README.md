@@ -92,6 +92,11 @@ Underlying Bond Maturity Date	2/15/2024
 
 
 
-You can find more details at
-https://finpricing.com/faq.html
+References:
+
+https://finpricing.com/lib/EqConvertible.html
+
+
+https://bitbucket.org/cmrm11/fibondfuture/downloads/FiBondFuture-11.pdf
+
 
